@@ -1,0 +1,6 @@
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+c:\users\andreeaflorina\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+C:\Users\AndreeaFlorina\Documents\Visual Studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\AndreeaFlorina\Documents\Visual Studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\AndreeaFlorina\Documents\Visual Studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\AndreeaFlorina\Documents\Visual Studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
